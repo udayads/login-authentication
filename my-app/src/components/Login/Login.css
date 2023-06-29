@@ -1,0 +1,39 @@
+.Login-card {
+  width: 400px;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #929292;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+a {
+  text-decoration: none;
+}
+.help {
+  color: cornflowerblue !important;
+}
+.form-control {
+  height: 50px !important;
+  background: #f0f2f3;
+  opacity: 0.7;
+  border-radius: 10px;
+}
+.login {
+  height: 50px !important;
+  border-radius: 10px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 100%;
+}
+.remember,
+::placeholder,
+.query {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 100%;
+  color: #000000;
+}
